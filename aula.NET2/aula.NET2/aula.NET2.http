@@ -1,0 +1,6 @@
+@aula.NET2_HostAddress = http://localhost:5103
+
+GET {{aula.NET2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
